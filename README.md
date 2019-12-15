@@ -2,9 +2,16 @@
 
 ## Problem
 
-In this day and time, many college students face strenous and overwhelming tasks of reading a lot of material, books, novels, research papers,
-and other things. We intend to make this process a little easier by making a sophisticated text-summarizer for our targeted audience!
+We are trying to make a cohesive platform/application which can provide the most important points from a chapter of a book, so that no important details can be left behind unattended by the reader.
 
+We are using a simple NLP model(Text Summarizer) for "dissecting contextual word embedding" technology.
+This application can be a game changer in the field of how we read and understand a text,paragraph, notes, documents, newspaper and even medical reports.
+
+This product can act as the  ultimate tool for the highly attention deficit teenagers, who cannot afford undivided attention for reading, let say -a novel.
+
+The ultimate usefulness of this product can be visualized for college students who at the time of revision can simply upload the text and obtained the most emphasised and important concepts.
+
+So whole of the book/pdf will be converted into n number of sections and then it will be presented to the user in the form of n number of cards generated and the user can happily learn through it in their own pace and timespan. 
 ## Solution
 
 We used the **gensim** library in python that has prebuilt **NLP** ranking models to create our summaries. But this is not enough.
