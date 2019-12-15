@@ -5,7 +5,7 @@
 We are trying to make a cohesive platform/application which can provide the most important points from a chapter of a book, so that no important details can be left behind unattended by the reader.
 
 We are using a simple NLP model(Text Summarizer) for "dissecting contextual word embedding" technology.
-This application can be a game changer in the field of how we read and understand a text,paragraph, notes, documents, newspaper and even medical reports.
+This application can be a game changer in the field of how we read and understand a text , paragraph , notes, documents, newspaper and even medical reports.
 
 This product can act as the  ultimate tool for the highly attention deficit teenagers, who cannot afford undivided attention for reading, let say -a novel or a research paper and legal terms in law.
 
